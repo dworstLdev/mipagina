@@ -1,0 +1,59 @@
+.jumbotron {
+background-color: #f1eb50;
+	color: #000000;
+	padding: 100px 25px;
+	font-family: sans-serif;
+	text-align: center
+}
+.container-fluid{
+	padding:40px 50px;
+}
+.panel{
+	border: 1px solid #EDC45B;
+}
+.panel:hover{
+	box-shadow: 3px 7px 30px #f94d00;
+}
+.equipo .panel-heading {
+    color: #fff;
+    background-color: #F7780F;
+    padding: 20px;
+    border-bottom: 1px solid;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.panel-footer {
+    background-color: #EDC45B;
+}
+.panel-footer h4 {
+    color: #00000;
+    font-size: 15px;
+}
+.glow:hover{
+	box-shadow: 3px 7px 50px #ffa812;
+}
+.menu {
+    background-color: #ff4500;
+    padding: 5px 0px 14px;
+    border: 0;
+    font-size: 12px;
+    line-height: 1.42;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+}
+.menu .navbar-nav li a, .menu .navbar-brand {
+    color: #fff;
+}
+.menu .navbar-nav li a:hover, .menu .navbar-nav li.active a {
+    color: #f4511e;
+    background-color: #fff;
+}
+.menu .navbar-default .menu .navbar-toggle {
+    border-color: transparent;
+    color: #fff;
+}
+.footer{
+	background-color: #ffffff;
+}
